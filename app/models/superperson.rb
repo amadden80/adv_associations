@@ -4,4 +4,7 @@ class Superperson < ActiveRecord::Base
 
   belongs_to :group_leader, class_name: 'Superperson'
 
+  belongs_to :superpet, polymorphic: true
+
+
 end
