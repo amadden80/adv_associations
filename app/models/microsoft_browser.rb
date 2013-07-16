@@ -1,0 +1,5 @@
+class MicrosoftBrowser < Browser
+
+
+
+end

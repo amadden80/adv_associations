@@ -1,0 +1,3 @@
+class GoogleBrowser < Browser
+
+end
